@@ -1,0 +1,3 @@
+# Unexpected Routing Behavior in React Router Dom v6
+
+This repository demonstrates an uncommon bug in React Router Dom v6 related to unexpected routing behavior.  The issue arises when navigating between routes that contain nested components or dynamic segments. The affected routes may not render correctly, or you may experience unexpected page transitions.  The solution offered addresses this issue by restructuring the route setup.
